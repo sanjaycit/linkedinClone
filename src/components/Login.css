@@ -1,0 +1,21 @@
+div{
+    padding: 0;
+}
+nav{
+    max-width: 1128px;
+    margin: auto;
+    padding:12px 0 16px; 
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+a{
+    width:135px;
+    height: 34px;
+}
+.
+@media(max-width:768px){
+    padding: 0 5px;
+}
